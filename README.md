@@ -6,14 +6,15 @@ I design, deploy, secure, and automate hybrid IT infrastructure across Azure, AW
 
 I build production software using AI-assisted development workflows, combining cloud engineering, automation, and modern application development.
 
-**Projects**
+## Projects
 
 - **Portfolio**: [bio-two-eta.vercel.app](https://bio-two-eta.vercel.app)
 - **How I build**: [bio-two-eta.vercel.app/how-i-build](https://bio-two-eta.vercel.app/how-i-build). My workflow, my stack decisions, and a real case study, with every claim linked to a public pull request.
 - **TaskPilot**: [taskpilot-umber.vercel.app](https://taskpilot-umber.vercel.app). AI SaaS that generates automation scripts and n8n workflows for sysadmins and IT professionals.
 - **Stack Signal**: [the blog](https://bio-two-eta.vercel.app/blog.html). Real headlines from trusted sources, curated daily.
 
-**Focus Areas**
+## Focus Areas
+
 - Multi-cloud architecture (Azure, AWS, GCP, OCI)
 - DevSecOps & cloud security
 - Infrastructure as Code (Terraform, Ansible)
@@ -21,5 +22,6 @@ I build production software using AI-assisted development workflows, combining c
 - Containers & Kubernetes
 - Enterprise IT operations
 
-**Connect**
+## Connect
+
 [LinkedIn](https://linkedin.com/in/michael-twagirayezu) | [Contact](https://bio-two-eta.vercel.app/#contact)
