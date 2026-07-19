@@ -2,7 +2,7 @@
 
 **Bilingual IT Systems & Cloud Automation Engineer | AI SaaS Founder**
 
-I design, deploy, secure, and automate hybrid IT infrastructure across Azure, AWS, GCP, and OCI. With 10+ years of enterprise IT experience, I specialize in cloud architecture, DevSecOps, AI integration, and automation solutions that improve reliability and efficiency.
+I design, deploy, secure, and automate hybrid IT infrastructure across Azure, AWS, GCP, and OCI. With 10+ years of enterprise IT experience, I specialize in Microsoft 365 and Intune endpoint management, cloud architecture, DevSecOps, AI integration, and automation solutions that improve reliability and efficiency.
 
 I build production software using AI-assisted development workflows, combining cloud engineering, automation, and modern application development.
 
