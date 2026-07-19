@@ -12,7 +12,7 @@ I build production software using AI-assisted development workflows, combining c
 - **How I build**: [bio-two-eta.vercel.app/how-i-build](https://bio-two-eta.vercel.app/how-i-build). My workflow, my stack decisions, and a real case study, with every claim linked to a public pull request.
 - **TaskPilot**: [taskpilot-umber.vercel.app](https://taskpilot-umber.vercel.app). AI SaaS that generates automation scripts and n8n workflows for sysadmins and IT professionals.
 - **Stack Signal**: [the blog](https://bio-two-eta.vercel.app/blog.html). Real headlines from trusted sources, curated daily.
-- **M365 Adoption & Training Portfolio**: [https://bio-two-eta.vercel.app](https://m365-adoption-portfolio.vercel.app/).
+- **M365 Adoption & Training Portfolio**: [m365-adoption-portfolio.vercel.app](https://m365-adoption-portfolio.vercel.app/).
 
 ## Focus Areas
 
